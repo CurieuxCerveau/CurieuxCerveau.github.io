@@ -1,4 +1,3 @@
-# About
+# About 
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Neuroscientist turned illustrator, I like to learn new things everyday and explain it to others so I retain it better. 
