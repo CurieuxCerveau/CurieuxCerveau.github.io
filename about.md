@@ -1,3 +1,3 @@
-# About 
+# A propos de moi  
 
-Neuroscientist turned illustrator, I like to learn new things everyday and explain it to others so I retain it better. 
+Neuroscientifique de formation devenur illustratrice par passion, j'aime apprendre des nouvelles choses chaque jour et partager mes trouvailles ici pour les expliquer visuellement et ainsi mieux les retenir.
