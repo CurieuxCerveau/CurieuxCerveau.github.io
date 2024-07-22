@@ -1,1 +1,1 @@
-Bonjour, et Bienvenue sur ce site de vulgarisation du deep learning. Ici vous trouverez des concepts touchants aux neurosciences, au deep learning et à la psychologie, expliqués de manière ludique et visuelle. 
+Bonjour, et Bienvenue sur ce site de vulgarisation scientifique et d'illustration. Ici vous trouverez des concepts touchants aux neurosciences, au deep learning et à la psychologie, expliqués de manière ludique et visuelle. 
